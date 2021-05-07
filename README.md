@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ariuss3. I am bored and need a metnal break from coding. I found that I can make a readme on github about myself, so here I am. Doing that. Right now. Yep.
+- 👋 Hi, I’m @Ariuss3. I am bored and need a mental break from coding. I found that I can make a readme on github about myself, so here I am. Doing that. Right now. Yep.
 
 - 👀 I’m interested in: Yes. I am a bit of a Polymath, so everything... 
       But I love video games, and making them, so right now I am interested in making games, mods, and other related things.
